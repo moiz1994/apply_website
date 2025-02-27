@@ -31,7 +31,7 @@ const Hero = () => {
       delay: 1.5,
     });
   }, []);
-
+  //-------------------------------------------------------------------------Video 1.25.35
   return (
     <section className="w-full relative nav-height bg-black">
       <div className="h-5/6 w-full flex-center flex-col">
